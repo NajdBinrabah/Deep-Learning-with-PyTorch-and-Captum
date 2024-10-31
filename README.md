@@ -6,6 +6,8 @@
 
 This project classifies images into “smoking” and “not smoking” categories using Deep Learning, with a focus on model explainability through Captum. To address data scarcity and enhance performance, Data Augmentation and Transfer Learning with the VGG19 model were employed. Captum further adds explainability by identifying influential features, making the model’s classification process more transparent.
 
+You can view the detailed Notebook for this project [here](https://github.com/NajdBinrabah/Deep-Learning-with-PyTorch-and-Captum/blob/main/Deep_Learning_with_PyTorch_%26_Captum_Explainability_in_Image_Classification.ipynb).
+
 <h3>Libraries Used</h3>
 
 - **PyTorch:** For building, training, and evaluating the Deep Learning model.
